@@ -23,3 +23,5 @@ WebUI.openBrowser('')
 
 WebUI.closeBrowser()
 
+WebUI.closeBrowser()
+
